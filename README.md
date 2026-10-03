@@ -7,7 +7,7 @@
 فایل `backhaul-manager.sh` را در شاخهٔ `main` مخزن خودتان قرار دهید. در دستور زیر `YOUR_USER` و `YOUR_REPO` را جایگزین کنید:
 
 ```bash
-curl -fSL https://raw.githubusercontent.com/YoungDeveloper2025/YOUR_REPO/main/backhaul-manager.sh -o backhaul-manager.sh
+curl -fSL https://raw.githubusercontent.com/YoungDeveloper2025/backhaul-tunnel/main/backhaul-manager.sh -o backhaul-manager.sh
 sudo bash backhaul-manager.sh
 ```
 
